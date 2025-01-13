@@ -1,10 +1,10 @@
 <p align="center">
-  <h1 align="center">NodeJS - HapiJS API Worker - Monolith</h1>
+  <h1 align="center">NodeJS - HapiJS API Server</h1>
 </p>
 
-## Developing at NodeJS - HapiJS API Worker - Monolith
+## Developing at NodeJS - HapiJS API Server - Monolith
 
-> NodeJS - HapiJS API Worker - Monolith built for study proposes, it provides **RESTFUL** services on resource oriented architecture projects (ROA).
+> NodeJS - HapiJS API Server - Monolith built for study proposes, it provides **RESTFUL** services on resource oriented architecture projects (ROA).
 
 > The barebone is located under `app/api` and `app/core`, it is desgined by default covered by an Users API which is the authentecion is supported by a JWT plugin (app/core/plugins). There is also a Workers layer which comes with the `webapi` as default but it also ables you to create your own workers such Notification (notify) or Transactions (shake data in db) workers. If you need more details of how apply in your business feel free to get in touch and I'll be happy to help.
 
